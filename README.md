@@ -1,3 +1,7 @@
+# EXPERIMENT 4
+
+## Logistic Regression, ROC Curve and Evaluation Metrics
+
 ## AIM:
 
 Train logistic regression; compute accuracy, precision, recall, F1, AUC and plot ROC.
